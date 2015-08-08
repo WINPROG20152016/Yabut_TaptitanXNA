@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hero sprite\toonlink.png</Source>
+      <Name>Hero sprite\toonlink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlink.xnb</Output>
+      <Time>2015-06-20T09:37:17.0774381+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\faronwoods.jpg</Source>
+      <Name>Hero sprite\faronwoods</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\faronwoods.xnb</Output>
+      <Time>2015-06-20T09:47:57.4914381+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\911.jpg</Source>
+      <Name>Hero sprite\911</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\911.xnb</Output>
+      <Time>2015-06-20T09:56:23.7414665+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\toonlonk.png</Source>
+      <Name>Hero sprite\toonlonk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlonk.xnb</Output>
+      <Time>2015-06-27T10:45:01.694361+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\toonlink2.png</Source>
+      <Name>Hero sprite\toonlink2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlink2.xnb</Output>
+      <Time>2015-07-04T09:27:39.8928519+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\linksprite.png</Source>
+      <Name>Hero sprite\linksprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linksprite.xnb</Output>
+      <Time>2015-07-04T10:35:45.3022308+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\linksprite2.png</Source>
+      <Name>Hero sprite\linksprite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linksprite2.xnb</Output>
+      <Time>2015-07-11T08:53:42.377883+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\forest.png</Source>
+      <Name>Hero sprite\forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\forest.xnb</Output>
+      <Time>2015-07-11T09:05:57.9674865+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-07-18T08:36:44.3319065+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\Button1.png</Source>
+      <Name>Hero sprite\Button1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\Button1.xnb</Output>
+      <Time>2015-07-18T09:31:02.2992112+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\playbutton.png</Source>
+      <Name>Hero sprite\playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\playbutton.xnb</Output>
+      <Time>2015-07-25T09:11:49.6446481+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\kingboboboobs.png</Source>
+      <Name>Hero sprite\kingboboboobs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\kingboboboobs.xnb</Output>
+      <Time>2015-07-25T09:37:49.2657792+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\linkidle.png</Source>
+      <Name>Hero sprite\linkidle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linkidle.xnb</Output>
+      <Time>2015-07-25T09:55:43.0152225+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\linkslash.png</Source>
+      <Name>Hero sprite\linkslash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linkslash.xnb</Output>
+      <Time>2015-07-25T10:24:24.2115588+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\kingdudududu.png</Source>
+      <Name>Hero sprite\kingdudududu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\kingdudududu.xnb</Output>
+      <Time>2015-07-25T10:43:51.9990354+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\stage.png</Source>
+      <Name>Hero sprite\stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\stage.xnb</Output>
+      <Time>2015-07-25T10:50:24.9523268+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\finaldestination.png</Source>
+      <Name>Hero sprite\finaldestination</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\finaldestination.xnb</Output>
+      <Time>2015-07-25T10:55:00.1158404+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\final.png</Source>
+      <Name>Hero sprite\final</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\final.xnb</Output>
+      <Time>2015-08-01T09:23:13.502102+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\smash.jpg</Source>
+      <Name>Hero sprite\smash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\smash.xnb</Output>
+      <Time>2015-08-01T09:25:06.790102+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\settle.png</Source>
+      <Name>Hero sprite\settle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\settle.xnb</Output>
+      <Time>2015-08-01T09:26:24.258102+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\ganonatk.png</Source>
+      <Name>Hero sprite\ganonatk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\ganonatk.xnb</Output>
+      <Time>2015-08-08T09:35:00.3750547+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero sprite\ganonidle.png</Source>
+      <Name>Hero sprite\ganonidle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\ganonidle.xnb</Output>
+      <Time>2015-08-08T09:35:00.3740546+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabutContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabutContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,28 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\TapTitanXNA_AlfredoYabut.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\TapTitanXNA_AlfredoYabut.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\obj\x86\Debug\TapTitanXNA_AlfredoYabut.csprojResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\obj\x86\Debug\TapTitanXNA_AlfredoYabut.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\obj\x86\Debug\TapTitanXNA_AlfredoYabut.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlink.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\faronwoods.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\911.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlonk.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\toonlink2.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linksprite.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linksprite2.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\forest.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\Button1.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\playbutton.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\kingboboboobs.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linkidle.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\linkslash.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\kingdudududu.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\stage.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\finaldestination.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\final.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\smash.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\settle.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\ganonatk.xnb
+C:\Users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\TapTitanXNA_AlfredoYabut\bin\x86\Debug\Content\Hero sprite\ganonidle.xnb

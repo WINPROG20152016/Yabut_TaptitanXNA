@@ -1,0 +1,22 @@
+Content\Hero sprite\toonlink.xnb
+Content\Hero sprite\faronwoods.xnb
+Content\Hero sprite\911.xnb
+Content\Hero sprite\toonlonk.xnb
+Content\Hero sprite\toonlink2.xnb
+Content\Hero sprite\linksprite.xnb
+Content\Hero sprite\linksprite2.xnb
+Content\Hero sprite\forest.xnb
+Content\Font.xnb
+Content\Hero sprite\Button1.xnb
+Content\Hero sprite\playbutton.xnb
+Content\Hero sprite\kingboboboobs.xnb
+Content\Hero sprite\linkidle.xnb
+Content\Hero sprite\linkslash.xnb
+Content\Hero sprite\kingdudududu.xnb
+Content\Hero sprite\stage.xnb
+Content\Hero sprite\finaldestination.xnb
+Content\Hero sprite\final.xnb
+Content\Hero sprite\smash.xnb
+Content\Hero sprite\settle.xnb
+Content\Hero sprite\ganonatk.xnb
+Content\Hero sprite\ganonidle.xnb
