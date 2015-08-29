@@ -32,6 +32,7 @@ namespace TapTitanXNA_AlfredoYabut
 
         SpriteFont damageStringFont;
         int damageNumber = 0;
+        int damageNumber2 = 0;
         Button playButton;
         Button attackButton;
         #endregion
@@ -50,8 +51,8 @@ namespace TapTitanXNA_AlfredoYabut
             background = content.Load<Texture2D>("Hero sprite/settle");
             damageStringFont = content.Load<SpriteFont>("Font");
 
-            playButton = new Button(content, "Hero sprite/playbutton", new Vector2(300, 300));
-            attackButton = new Button(content, "Hero sprite/playbutton", new Vector2(300,300));
+            //playButton = new Button(content, "Hero sprite", new Vector2(300, 300));
+            //attackButton = new Button(content, "Hero sprite", new Vector2(300,300));
 
             hero.LoadContent();
             support1.LoadContent();
@@ -76,8 +77,18 @@ namespace TapTitanXNA_AlfredoYabut
 
             oldMouseState = mouseState;
 
-            attackButton.Update(gameTime, mouseX, mouseY,
-                mpressed, prev_mpressed);
+            //attackButton.Update(gameTime, mouseX, mouseY,
+                //mpressed, prev_mpressed);
+
+            if (keyState.IsKeyDown(Keys.S))
+            {
+                damageNumber++;
+            }
+
+            if (keyState.IsKeyDown(Keys.Down))
+            {
+                damageNumber2++;
+            }
        }
 
        public void Draw(GameTime gameTime, SpriteBatch spriteBatch) {
@@ -94,9 +105,19 @@ namespace TapTitanXNA_AlfredoYabut
             hero.Draw(gameTime, spriteBatch);
             support1.Draw(gameTime, spriteBatch);
 
-            spriteBatch.DrawString(damageStringFont, damageNumber+ "Press S for Link. Press Down arrow key for King Dedede", Vector2.Zero, Color.Pink);
+            spriteBatch.DrawString(damageStringFont, damageNumber+ "                      Press S for Link and Down for Ganondorf",new Vector2(0, 0), Color.Red);
 
-            playButton.Draw(gameTime, spriteBatch);
+            spriteBatch.DrawString(damageStringFont, damageNumber2 + "", new Vector2(910, 0), Color.Red);
+            if (damageNumber >= 500)
+            {
+                spriteBatch.DrawString(damageStringFont, "Ayy Lmao Bugan Player 1 wins!!!!", new Vector2(300, 130), Color.Pink);
+            }
+            if (damageNumber2 >= 500)
+            {
+                spriteBatch.DrawString(damageStringFont, "Ayy Lmao Bugan Player 2 wins!!!!", new Vector2(300, 130), Color.Pink);
+            }
+
+            //playButton.Draw(gameTime, spriteBatch);
         }
     }
 }
